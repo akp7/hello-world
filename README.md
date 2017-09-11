@@ -1,2 +1,3 @@
 # hello-world
-tutorial repo
+
+This is the repository where I complete the tutorial.
